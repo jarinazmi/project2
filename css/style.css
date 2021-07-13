@@ -1,0 +1,48 @@
+.navbar{
+    box-shadow: -2px -2px 10px gray;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover{
+    text-decoration: underline;
+}
+
+.banner h1{
+    font-size: 56px;
+    font-weight: 200 !important;
+}
+
+.banner p {
+	font-size: 21px;
+	font-weight: 300;
+}
+
+.card-body p{
+    margin-bottom: 2px;
+}
+
+.card:hover{
+    background-color: rgb(109, 233, 125) !important;
+}
+
+hr {
+	width: 952px;
+	
+}
+
+footer li{
+    list-style: none;
+    
+}
+
+footer li a{
+    color: gray;
+}
+footer li a:hover{
+    color: gray;
+}
